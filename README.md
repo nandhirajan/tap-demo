@@ -1,1 +1,3 @@
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+1. Learned about VCS
+2. Learned about DVCS
+3. Difference between VCS and DVCS
